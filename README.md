@@ -1,4 +1,4 @@
-### Hi there 👋 Pattern Challenge
+
 
 <!--
 **TarunK781/TarunK781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
